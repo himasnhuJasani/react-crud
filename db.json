@@ -1,0 +1,84 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "Deborah M. Worley",
+      "age": 77,
+      "designation": "Pharmacy technician"
+    },
+    {
+      "id": 1678810169070,
+      "name": "William D. Robey",
+      "age": 19,
+      "designation": "Automotive body repairer"
+    },
+    {
+      "id": 6,
+      "name": "adsad",
+      "skill": "asdasd",
+      "education": "asdas",
+      "experience": "dasdad"
+    },
+    {
+      "id": 7,
+      "name": "raj",
+      "age": "22",
+      "designation": "Manger"
+    },
+    {
+      "id": 8,
+      "name": "RAJESH",
+      "age": "32",
+      "designation": "CTO"
+    },
+    {
+      "id": 9,
+      "name": "RAKHI",
+      "age": "18",
+      "designation": "Intern"
+    },
+    {
+      "id": 10,
+      "name": "roshni",
+      "age": "22",
+      "designation": "Developer"
+    },
+    {
+      "id": 11,
+      "name": "ritik",
+      "age": "29",
+      "designation": "designer"
+    },
+    {
+      "id": 12,
+      "name": "Daaniel",
+      "age": "23",
+      "designation": "Manger"
+    },
+    {
+      "id": 13,
+      "name": "",
+      "age": "",
+      "designation": ""
+    },
+    {
+      "id": 15,
+      "name": "Kiran",
+      "age": "20",
+      "designation": "intern"
+    },
+    {
+      "id": 1680861513918,
+      "name": "asd",
+      "age": "12",
+      "designation": "adasd"
+    },
+    {
+      "id": 1680861513919,
+      "name": "sadad",
+      "skill": "dasa",
+      "education": "sadsa",
+      "experience": "dasdad"
+    }
+  ]
+}
